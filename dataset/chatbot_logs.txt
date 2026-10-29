@@ -1,0 +1,6 @@
+[2026-10-29 10:31:13] Chatbot started.
+[2026-10-29 10:32:57] Question: WHAT IS LLM? | Response generated successfully.
+[2026-10-29 10:37:27] Question: what is machine learninng/ | Response generated successfully.
+[2026-10-29 10:43:40] Question: what is os and uses? | Response generated successfully.
+[2026-10-29 10:44:17] Question: bye/ | Response generated successfully.
+[2026-10-29 11:05:17] Chatbot stopped by user.
